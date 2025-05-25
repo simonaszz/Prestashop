@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>deliveryestimate</name>
+    <displayName><![CDATA[Delivery Estimate]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <author><![CDATA[Simonas - simasak56@gmail.com]]></author>
+    <description><![CDATA[Displays estimated delivery date on the product page using the displayReassurance hook.]]></description>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <limited_countries></limited_countries>
+    <confirmUninstall><![CDATA[Are you sure you want to uninstall this module?]]></confirmUninstall>
+    <ps_versions_compliancy>
+        <min>1.7.0.0</min>
+        <max>8.99.99</max>
+    </ps_versions_compliancy>
+</module>
